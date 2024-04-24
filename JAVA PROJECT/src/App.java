@@ -9,5 +9,6 @@ public class App {
         System.out.println("Segundo cambio en FeatureTwo");
 
         System.out.println("Primer cambio en Release, tras crear la rama a partir del último commit de desarrollo");
+        System.out.println("Segundo cambio en Release");
     }
 }
